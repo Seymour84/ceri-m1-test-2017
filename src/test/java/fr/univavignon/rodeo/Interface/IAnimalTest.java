@@ -1,4 +1,4 @@
-package fr.univavignon.rodeo;
+package fr.univavignon.rodeo.Interface;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
