@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertTrue;
 import org.junit.Before;
 import org.junit.Test;
+import fr.univavignon.rodeo.Interface;
 import fr.univavignon.rodeo.api.Animal;
 
 public class AnimalTest extends IAnimalTest {
