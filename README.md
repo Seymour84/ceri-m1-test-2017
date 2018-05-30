@@ -1,5 +1,3 @@
-# Pour que tu te fasses plaisir en mon absence ;) (https://www.vrsmash.com)
-
 # ceri-m2-test
 
 # Auteur
